@@ -22,4 +22,4 @@ Build a web page according to the **expected result** image below, creating the 
 5. Appropriate use of modern CSS features
 
 ### Expected result
-![](https://cdn.glitch.com/29e315c4-d615-47e1-83f7-fcd54241d914%2F4fe2938a-963f-4754-a48c-0af2e2df417d%252Ffinal.png?1541650483603)
+![](https://github.com/mdhaines/front-end-code-test/blob/main/images/expected-result.png)
