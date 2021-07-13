@@ -3,7 +3,6 @@
 *Rev3 2021.07.13*
 
 Build a web page according to the **expected result** image below, creating the appropriate HTML structure, CSS styling and JavaScript interactions.
-
 * **Files** - Modify `index.html`, `style.css` and `script.js` to your liking.
 * **Images** - All the required images are provided in the `images` folder.
 * **Responsive** - The desktop version should exactly match the provided mockup. Feel free to adjust the design to look reasonable on **tablet** and **mobile devices**.
@@ -11,7 +10,7 @@ Build a web page according to the **expected result** image below, creating the 
 * **Font** -  use whichever fonts you like, default system font or Google fonts.
 * **Content** - Use the text from the content.txt file.
 * **Slider** - The third section contains a continuous image slider. You may use native JavaScript or a library (eg jQuery) but you must write you own code to develop the interaction and not rely on any other third party plugins.
-* When you are happy with your work, upload your changes to your Github account and send us the link for review.
+* Fork a copy of our code to make your changes. When you are happy with your work, merge your changes to your Github account and send us the link for review.
 
 ### Things we will consider when reviewing
 
